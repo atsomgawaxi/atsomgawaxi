@@ -1,7 +1,10 @@
 
 
-***"In order to grow, we must defeat the mistakes of our past. The past... even when you break it to pieces and entomb it in stone, it crawls out like a worm."***
+***"Half of what i say is meaningless,
+ but i say it just to reach you, Julia"***
 
 ---------------------------
 
-learning: python, c#, java and lua
+arduino and c++ freak
+forking funny repositories
+pentester
