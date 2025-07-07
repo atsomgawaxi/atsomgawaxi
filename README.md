@@ -5,6 +5,4 @@
 
 ---------------------------
 
-arduino and c++ freak
-forking funny repositories
-pentester
+3d printing and pentesting freak
